@@ -2,7 +2,6 @@
 
 This project contains a Power BI dashboard built using the **Sample Superstore dataset**, designed to provide actionable insights into sales and profitability across different market segments, regions, and product categories.
 
----
 
 ## 🔍 Dashboard Overview
 
@@ -51,3 +50,5 @@ The dashboard answers key business questions such as:
 - State-wise Filter: The slicer enables users to filter metrics based on selected states for deeper regional analysis.
 
 - Profit Trend: The line chart clearly illustrates quarterly profit fluctuations and seasonal patterns across years.
+
+  ---
